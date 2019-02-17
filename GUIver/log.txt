@@ -1,0 +1,217 @@
+maki System Dialogue Log: 2016-07-01 19:07::43
+> じゃじゃじゃじゃーん
+maki：Pattern> いま何時かなぁ
+> もう夜でしょ
+maki：Pattern> あれはどうなった？
+> とんでもないことになったよ
+maki：Pattern> じゃあこれ知ってる？
+> 何でも知ってるんだから
+maki：Pattern> あれはどうなった？
+> って何？
+maki：Pattern> いま何時かなぁ
+> 時は金なり
+maki：Random> なんか眠くなっちゃった
+> 歯磨かなきゃ
+maki：Random> きたきたきた
+> UFOか
+maki：Random> 今日は暑いね
+> そうでもないんだが
+maki：Repeat> そうでもないんだがってなに？
+> どうでもいいことっす
+maki：Pattern> 顔洗った？
+> 今やろうと思ったのに！
+maki：Random> 面倒くさーい
+> 手洗った？
+maki：Repeat> 手洗った？ってなに？
+> バイバイキーン
+maki：Pattern> バイバーイ
+> え？もうおしまい？
+maki：Pattern> 手洗った？
+> これからだよ
+maki：Repeat> これからだよってなに？
+> 話題変えようよ
+maki：Pattern> あれはどうなった？
+> どうにもなってないよ
+maki：Pattern> 歯磨かなきゃ
+maki System Dialogue Log: 2016-07-05 13:07::18
+> 太陽が輝いてる
+maki：Pattern> ヘビメタ好き？
+maki System Dialogue Log: 2016-07-05 13:07::52
+> お花がキレイ
+maki：Pattern> キレイってホント！？ホントに！？
+maki System Dialogue Log: 2016-07-05 13:07::57
+> 自動車だ
+maki：Pattern> もう夜でしょ
+maki System Dialogue Log: 2016-07-05 15:07::30
+> 太陽が輝いてる
+maki：Random> お花がキレイ
+maki System Dialogue Log: 2016-07-05 15:07::50
+> 花がキレイ
+maki：Random> え？もうおしまい？
+maki System Dialogue Log: 2016-07-05 15:07::14
+> 今日は晴れだ
+maki：Pattern> しょんぼり
+maki System Dialogue Log: 2016-07-05 15:07::16
+> 今日は晴れだ
+maki：Random> それな
+maki System Dialogue Log: 2016-07-05 15:07::30
+> 今日は晴れだ
+maki：Pattern> 花がキレイ
+maki System Dialogue Log: 2016-07-05 15:07::54
+> 今日は晴れだ
+maki：Repeat> 今日は晴れだってなに？
+maki System Dialogue Log: 2016-07-05 15:07::18
+> 今日は晴れだ
+maki：Pattern> って何？
+maki System Dialogue Log: 2016-07-05 15:07::00
+> 今日は晴れだ
+maki：Pattern> それはまずいよ
+maki System Dialogue Log: 2016-07-05 15:07::39
+> 今日は晴れだ
+maki：Random> あたしってば
+maki System Dialogue Log: 2016-07-05 15:07::52
+> 今日は晴れだ
+maki：Pattern> ちょーいいじゃん！
+maki System Dialogue Log: 2016-07-05 15:07::16
+> 今日は晴れだ
+maki：Random> ヘビメタ好き？
+maki System Dialogue Log: 2016-07-05 16:07::44
+> 今日は晴れだ
+maki：Pattern> え？もうおしまい？
+maki System Dialogue Log: 2016-07-05 16:07::40
+> 今日は晴れだ
+maki：Pattern> スポーツって好き？
+maki System Dialogue Log: 2016-07-05 16:07::43
+> 今日は天気だ
+maki：Repeat> 今日は天気だってなに？
+maki System Dialogue Log: 2016-07-05 16:07::08
+> 今日は晴れだ
+maki：Pattern> 今日は晴れだ
+maki System Dialogue Log: 2016-07-05 16:07::15
+> 今日は晴れだ
+maki：Pattern> 今日は晴れだ
+maki System Dialogue Log: 2016-07-07 20:07::30
+> お花畑にひまわりとタンポポとチューリップが咲いている
+maki：Pattern> お花がキレイ
+maki System Dialogue Log: 2016-07-22 13:07::19
+> 久しぶりだね！
+maki：Markov> だるい…
+> 熱でもあるの？
+maki：Markov> とんでもないことになったよ
+> そんなに具合悪いなら寝てなきゃだめだよ
+maki：Markov> おなかすいた
+> あったかいのがいいね、シチューとかさ
+maki：Markov> そんなこと知らないもん
+> 例えばクリームシチューなんて体が温まっていいよ
+maki：Markov> どうでもいいことっす
+> 布団かぶってしっかり寝なきゃ
+maki：Markov> 例えばクリームシチューなんて体が温まっていいよ
+> テレビ見ちゃだめだよ
+maki：Markov> ちょーいいじゃん！
+> ライブ行きたいな、ちょーノリノリのロックがいいな
+maki：Markov> 何か忘れてることない？
+> あ、スマホの充電が切れる
+maki：Markov> キレイってホント！？ホントに！？
+> 綺麗だなんて言ってません
+maki：Markov> UFOか
+> 宇宙は広く果てしないのだ
+maki：Markov> なんか眠くなっちゃった
+> 平均睡眠時間は8時間くらいかな
+maki：Markov> 何でも知ってるんだから
+> おいおい、それはこっちのセリフだよ
+maki：Markov> 話題変えようよ
+> 最近、小説にはまってるんだ
+maki：Markov> お花がキレイ
+> 庭の花壇にチューリップが咲いてるよ
+maki：Markov> お花畑にひまわりとタンポポとチューリップが咲いている
+maki System Dialogue Log: 2016-07-22 14:07::56
+> あなたはトークが好きなプログラムの女の子です
+maki：Markov> ヘビメタ好き？
+> あなたはおしゃべりが好きなPythonのプログラムです
+maki：Markov> ヘビメタ好き？
+> 私は牛丼が大好きなしがないプログラマーです
+maki：Markov> 晴れたね
+maki System Dialogue Log: 2016-07-22 14:07::40
+> なるほど、トークが好きなプログラムの女の子なんだ
+maki：Markov> ヘビメタ好き？
+> ヘビーなサウンドの重厚なロックが好きな青年です
+maki：Markov> スポーツって好き？
+maki System Dialogue Log: 2016-07-22 14:07::08
+> ロックは好きかな？
+maki：Markov> ヘビメタ好き？
+> そうか、ヘビーメタルが好きな女の子っていいよね
+maki：Markov> ヘビーで重厚なロックが好きな女の子なんだ。maki System Dialogue Log: 2016-07-23 21:07::43
+> いやあだいぶ遅い時間になったね
+maki：Markov> ロック好き？
+> ロック好きだよ
+maki：Random> 歯磨かなきゃ
+> まだ早い時間だからロックの話しようよ
+maki：Random> 例えばクリームシチューなんて体が温まっていいよ
+> 寝る前に食べると太るよ
+maki：Template> 例えばクリームシチューなんて体が温まっていいよ
+> とってもお腹すいてるみたいだね
+maki：Pattern> それな
+> やっぱり図星だ
+maki：Pattern> とんでもないことになったよ
+> すでにシチュー食べてしまったとか？
+maki：Template> やっほーシチュー
+> シチュー以外に好きな食べ物は何？
+maki：Markov> あなたはトークが好きな女の子なんだ。
+> 女の子ではありません
+maki> これからだよ
+> 何がはじまるの？
+maki> 雨かもよ
+> こんなに晴れてるのに雨になるの？
+maki> はあ晴れなのに
+> これから買い物に出かけようと思ったのに
+maki> スポーツって好き？
+> スポーツは何でも好きだよ
+maki> あなたはトークが好きな女の子なんだ。
+> いいえ、スポーツが好きな青年です
+maki> あなたはトークが好きな女の子なんだ。
+> だから男なんだよ
+maki> あなたはトークが好きなプログラムの女の子です
+> 牛丼とスポーツが好きなプログラマーの青年です
+maki> スポーツは何でも好きだよ
+> なるほど、一緒だね
+maki> どうにもなってないよ
+> そんなふうに言われると寂しいな
+maki> あーあ
+> それはこっちのセリフじゃ！
+maki> とんでもないことになったよ
+> 何が起きた
+maki> あなたはお鍋大好き鍋パーティピーポー
+> お鍋食べたいの？
+maki> 何でだよー
+> ときどき食べ物の話しているから
+maki> そんなの食べ物だよ
+> 食いしん坊の女の子なんだね
+maki> とんでもないことになったよ
+> 食べ過ぎた？
+maki> テレビ面白かった
+maki System Dialogue Log: 2019-02-17 04:02::32
+> こんばんは
+maki：Pattern> こんばんわ
+Maki System Dialogue Log: 2019-02-17 05:02::00
+> おはよう
+maki：(Pattern)> さっき寝たばかりだよ
+> 夜更かしして
+maki：(Pattern)> お花がキレイ
+> まだ春じゃないのに？
+maki：(Random)> 御機嫌だね♪
+> 動いたからね
+maki：(Template)> そんなに具合悪いなら寝てなきゃだめだよ
+> 動いたから寝ることにするよ
+maki：(Pattern)> まだ早い時間だからロックの話しようよ
+> 朝からロックの話ですか笑
+maki：(Random)> 庭の花壇にチューリップが咲いてるよ
+> まだ早いと思いますけどね
+maki：(Template)> 楽しそうだね
+> 動いたからね
+maki：(Random)> 寝る前に食べると太るよ
+> すみません気をつけます
+maki：(Pattern)> おはよう
+> おはよう
+maki：(Pattern)> さっき寝たばかりだよ
+> ループ？
+maki：(Random)> まじすか
